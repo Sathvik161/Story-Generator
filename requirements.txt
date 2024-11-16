@@ -1,0 +1,9 @@
+ streamlit
+ langchain
+ PyPDF2
+ python-docx
+ scikit-learn
+ streamlit-option-menu
+ streamlit-chat
+ faiss-cpu
+ sentence-tr
