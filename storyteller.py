@@ -50,7 +50,7 @@ COMPLETE STORY:
 # Initialize LLM
 callback = CallbackManager([StreamingStdOutCallbackHandler()])
 llm = LlamaCpp(
-    model_path="C:/coding/llama2summarize/llama-2-7b-chat.Q8_0.gguf",
+    model_path="your llama path",
     temperature=1,
     n_gpu_layers=50,
     n_batch=4096,
